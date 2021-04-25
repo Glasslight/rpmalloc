@@ -231,3 +231,6 @@ coverallsreport.json
 codecov.json
 codecovreport.json
 benchmark-*.txt
+
+# glasslight
+_build
